@@ -32,7 +32,3 @@ You can see the port number in command prompt after sucessfull run
    }
    Response:
    mail send successfully
-
-
-
-
