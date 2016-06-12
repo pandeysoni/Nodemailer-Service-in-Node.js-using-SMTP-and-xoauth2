@@ -32,5 +32,5 @@ You can see the port number in command prompt after sucessfull run
    }
    Response:
    mail send successfully
-   
+   ```
 ![picture alt](https://github.com/pandeysoni/Nodemailer-Service-in-Node.js-using-SMTP-and-xoauth2/blob/master/restconsole.gif )
