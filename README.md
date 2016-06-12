@@ -22,16 +22,13 @@ node server.js
 
 You can see the port number in command prompt after sucessfull run
 
-POST --> localhost:3000/send
-Body:
-{
-   "subject": "Nodemailer Test using SMTP",
-   "receivers": "sonipandey.71@gmail.com",
-   "text":"Hey, You Recieved message from your nodemailer package"
-}
-Response:
-mail send successfully
-
-
-
-
+```javascript
+   POST --> localhost:3000/send
+   Body:
+   {
+      "subject": "Nodemailer Test using SMTP",
+      "receivers": "sonipandey.71@gmail.com",
+      "text":"Hey, You Recieved message from your nodemailer package"
+   }
+   Response:
+   mail send successfully
