@@ -1,0 +1,21 @@
+{
+  "name": "passport-authentication-in-node.js",
+  "version": "0.1.0",
+  "main": "server",
+  "engines": {
+    "node": ">=0.10.22"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "nodemailer": "^0.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pandeysoni"
+  },
+  "keywords": [
+    "mvc",
+    "boilerplate"
+  ]
+}
